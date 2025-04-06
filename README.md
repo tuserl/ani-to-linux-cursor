@@ -5,5 +5,7 @@ then run
 gimp *
 resize them with interpolation none
 
+Watch tutorial from mkv file by downloading it here
+
 credit: https://github.com/Mastermindzh/Scripts/blob/master/c%2B%2B/ani2png.c
 
