@@ -1,0 +1,15 @@
+resize_algorithm = none
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_size = 38, 000.png, 90
+define_size = 38, 001.png, 90
+define_size = 38, 002.png, 90
+define_size = 38, 003.png, 90
+define_size = 38, 004.png, 90
+define_size = 38, 005.png, 90
+define_size = 38, 006.png, 90
+define_size = 38, 007.png, 90
+define_size = 38, 008.png, 90
+define_size = 38, 009.png, 90
+define_size = 38, 010.png, 90
