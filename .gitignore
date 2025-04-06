@@ -1,4 +1,6 @@
 # Ignore any folder named ani
 **/ani/
+**/ani.bak/
 **/output/
+**/output.bak/
 
