@@ -1,0 +1,4 @@
+# Ignore any folder named ani
+**/ani/
+**/output/
+
